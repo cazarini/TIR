@@ -1,0 +1,21 @@
+1 – Download Python
+	https://www.python.org/downloads/
+2 – Instalar Python
+	Marcar todas as opções
+3 – Testando a instalação
+	Python IDLE
+	License()
+	print('Olá, mundo!')
+	quit()
+4 - Instalando TIR Framework
+	pip install tir_framework --upgrade
+5 – Instalar a extensão do Python Microsoft no VsCode
+6 - Instalar adicionais
+	python.exe -m pip install -U autopep8
+	CTRL+shift+p Selecionar linter
+7 - Instalar a extensão com o tema Dracula
+8 - Instalar fsspec
+	python.exe -m pip install -U fsspec
+9 – Config.json
+10- Webapp Protheus
+
