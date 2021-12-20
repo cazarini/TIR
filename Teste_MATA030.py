@@ -9,7 +9,7 @@ class MATA030(unittest.TestCase):
 
         inst.oHelper = Webapp() 
         inst.oHelper.Setup('SIGAFAT','20/12/2021', inst.grupo, '01', '05')
-        inst.oHelper.SetLateralMenu("Atualizações > Cadastros > Clientes")
+        inst.oHelper.Program('MATA030')
 
     def teste_MATA030_001(self):
 
