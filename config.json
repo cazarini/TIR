@@ -1,0 +1,12 @@
+{
+    "Url": "http://localhost:4743/",
+    "Browser": "FireFox",
+    "Environment": "DESENV27",
+    "Language": "pt-br",
+    "User": "admin",
+    "Password": "",
+    "CSVPath": "C://Users//fabio.cazarini//Documents//TRABALHO//TIR",
+    "DebugLog": false,
+    "TimeOut": 90,
+    "Headless": false
+}
